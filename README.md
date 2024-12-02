@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=SpaceMono&size=35&center=true&vCenter=true&width=600&height=80&duration=4000&lines=01101000+01101001+Heyyo+👋;+This+is+Manas+Gupta🚀!;" />
 </h1>
 
-<h3 align="center"> I'm a driven and passionate software developer and an electronics engineer, I relentlessly pursue new innovations and ideas, consistently seeking to push the boundaries of what's possible</h3>
+<h3 align="center">  I'm a driven and passionate software developer and an electronics engineer, I relentlessly pursue new innovations and ideas, consistently seeking to push the boundaries of what's possible.</h3>
 
 - 🌱 I’m currently learning **React, Python, Node.js, Next.js, express.js**
 
