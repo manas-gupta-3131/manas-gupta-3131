@@ -1,4 +1,4 @@
-<h1 align="center">Hey👋, I'm Manas Gupta</h1>
+<h1 align="center">Hey👋, I'm Manas Gupta!</h1>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=SpaceMono&size=35&center=true&vCenter=true&width=600&height=80&duration=4000&lines=01101000+01101001+Heyyo+👋;+This+is+Manas+Gupta🚀!;" />
 </h1>
