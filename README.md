@@ -5,7 +5,7 @@
 
 <h3 align="center">  I'm a driven and passionate software developer and an electronics engineer, I relentlessly pursue new innovations and ideas, consistently seeking to push the boundaries of what's possible.</h3>
 
-- 🌱 I’m currently learning **React, Python, Node.js, Next.js, express.js**
+- 🌱 I’m currently learning **Cpp, MERN Stack, Python, Machine Learning and Embedded Systems**
 
 - 📫 How to reach me **manasgupta3131@gmail.com**
 
