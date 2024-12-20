@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **manasgupta3131@gmail.com**
 
-- ⚡ Fun fact **I love cats haha**
+- ⚡ Fun fact **I love cats and cars haha**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
